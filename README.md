@@ -1,2 +1,2 @@
-# UIUX
-my uiux design using figma
+# c language
+data structure in c
